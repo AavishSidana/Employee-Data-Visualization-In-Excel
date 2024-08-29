@@ -27,6 +27,7 @@ City: The city where the employee is based.
 
 Exit Date: The date the employee left the organization (if applicable).
 
-This project leverages pivot tables in Excel to provide insightful visualizations of the data. Key analyses include calculating and visualizing average salaries segmented by various categories such as job title, ethnicity, department, and business unit. These visualizations help in understanding salary distributions and trends across different segments of the workforce, offering valuable insights into employee compensation structures.
+In this project, the data has been summarized using pivot tables and then visualized using various types of charts. These visualizations include stacked column charts,line chart and treemap , among others, to represent average salaries segmented by categories such as job title, ethnicity, department, and business unit. These charts offer a clear and concise view of salary distributions and trends across different segments of the workforce, providing valuable insights into employee compensation structures.
 
-This project demonstrates the practical application of Excel's pivot tables for data analysis and visualization, making it a useful example for those interested in exploring employee data or enhancing their Excel skills.
+This project demonstrates the effective use of Excel’s pivot tables and charting tools for data analysis and visualization, making it a practical example for those interested in exploring employee data or enhancing their Excel skills.
+
