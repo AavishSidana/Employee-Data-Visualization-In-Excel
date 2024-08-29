@@ -2,6 +2,7 @@
 This project focuses on visualizing employee records data using Microsoft Excel. The dataset provided is a sample, representing a comprehensive range of employee information across several key metrics. The dataset includes columns such as:
 
 Employee ID: A unique identifier for each employee.
+
 Full Name: The complete name of the employee.
 Job Title: The position or role held by the employee within the organization.
 Gender: The gender of the employee.
